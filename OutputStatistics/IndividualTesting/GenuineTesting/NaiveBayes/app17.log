@@ -1,0 +1,11 @@
+
+ The Test results
+
+Correctly Classified Instances           8               61.5385 %
+Incorrectly Classified Instances         5               38.4615 %
+Kappa statistic                          0     
+Mean absolute error                      0.4937
+Root mean squared error                  0.4985
+Relative absolute error                110.1666 %
+Root relative squared error            111.2381 %
+Total Number of Instances               13     
